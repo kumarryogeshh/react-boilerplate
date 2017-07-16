@@ -36,6 +36,12 @@ build/Release
 node_modules/
 jspm_packages/
 
+# .idea directory
+.idea/
+
+# .DS_Store
+.DS_Store
+
 # Typescript v1 declaration files
 typings/
 
