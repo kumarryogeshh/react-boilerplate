@@ -10,7 +10,7 @@ $ npm start
 ```
 
 ## Contributing
-Feel free to submit a pull requests! For specifics on how to contribute to this project.
+Feel free to submit a pull requests! For specifics on how to contribute to this project, check out [notes on contributing](CONTRIBUTING.md).
 
 ## License
 This code is released under the [MIT License](LICENSE).
