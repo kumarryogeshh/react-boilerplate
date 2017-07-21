@@ -1,5 +1,5 @@
 # react-boilerplate
-This React JS boilterplate code designed using webpack. Although the React starter repo or create-react-app makes it faster to setup, you can use this code if you want to learn what webpack does behind-the-scence.
+This React JS boilterplate code designed using webpack. Although the React starter repo, [create-react-app](https://github.com/facebookincubator/create-react-app) makes it faster to setup, you can use this code if you want to learn what webpack does behind-the-scence.
 
 ## Getting Started
 
